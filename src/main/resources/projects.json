@@ -1,0 +1,44 @@
+[
+  {
+    "_class": "com.gulcu.murat.springtest.entities.Project",
+    "projectCode" : "IM",
+    "projectName": "Issue Management Project"
+  },
+  {
+    "_class": "com.gulcu.murat.springtest.entities.Project",
+    "projectCode" : "ERP-S",
+    "projectName": "ERP Project for Sales"
+  },
+  {
+    "_class": "com.gulcu.murat.springtest.entities.Project",
+    "projectCode" : "CRM-S",
+    "projectName": "CRM Project for Sales"
+  },
+  {
+    "_class": "com.gulcu.murat.springtest.entities.Project",
+    "projectCode" : "CRM-B",
+    "projectName": "CRM Project for Bussiness"
+  },
+  {
+    "_class": "com.gulcu.murat.springtest.entities.Project",
+    "projectCode" : "ERP-B",
+    "projectName": "ERP Project for Bussiness"
+  },
+  {
+    "_class": "com.gulcu.murat.springtest.entities.Project",
+    "projectCode" : "TP",
+    "projectName": "Test Project"
+  },
+  {
+    "_class": "com.gulcu.murat.springtest.entities.User",
+    "username" : "mgulcu",
+    "nameSurname": "Murat Gulcu",
+    "email":"mmuratgulcu@gmail.com"
+  },
+  {
+    "_class": "com.gulcu.murat.springtest.entities.User",
+    "username" : "jdoe",
+    "nameSurname": "John Doe",
+    "email":"jdoe@gmail.com"
+  }
+]
